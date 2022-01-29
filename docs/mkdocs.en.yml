@@ -11,7 +11,7 @@ nav:
   - Workshop: workshop/background.md
   - Molecule Unfolding: workshop/a-molecule-unfolding/molecule-unfolding.md
   - Notebook Experiment: workshop/a-molecule-unfolding/notebook-experiment.md
-  - Batch Test: workshop/a-molecule-unfolding/batch-test.md
+  - Batch Evaluation: workshop/a-molecule-unfolding/batch-evaluation.md
   - Test Your Own Model: workshop/a-molecule-unfolding/test-your-own-model.md
   - Cost: cost.md
   - Security: security.md
