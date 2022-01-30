@@ -12,7 +12,7 @@ nav:
   - Molecule Unfolding: workshop/a-molecule-unfolding/molecule-unfolding.md
   - Notebook Experiment: workshop/a-molecule-unfolding/notebook-experiment.md
   - Batch Evaluation: workshop/a-molecule-unfolding/batch-evaluation.md
-  - Test Your Own Model: workshop/a-molecule-unfolding/test-your-own-model.md
+  - Evaluate Your Own Model: workshop/a-molecule-unfolding/evaluate-your-own-model.md
   - Cost: cost.md
   - Security: security.md
   - Supported regions: regions.md
